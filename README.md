@@ -1,0 +1,2 @@
+# CrazyJava
+for personal learning
