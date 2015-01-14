@@ -12,8 +12,8 @@ public class Ch3Test
 		d += 6;
 		System.out.println(d);
 		
-		System.out.println("97ºÍ'a'ÊÇ·ñÏàµÈ " + (97 == 'a'));
+		System.out.println("97å’Œ'a'æ˜¯å¦ç›¸ç­‰ " + (97 == 'a'));
 		
-		System.out.println("¾ø¶ÔÂ·¾¶ÊÇC:\\codes\\");
+		System.out.println("ç»å¯¹è·¯å¾„æ˜¯C:\\codes\\");
 	}
 }
